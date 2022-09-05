@@ -22,3 +22,11 @@ Task 4:
 #!/bin/bash
 tail /etc/passwd
 Script display the last 10 lines of /etc/passwd
+
+Task 5:
+#!/bin/bash
+head /etc/passwd
+Script display the first 10 lines of /etc/passwd
+
+Task 6:
+#!/bin/bash
