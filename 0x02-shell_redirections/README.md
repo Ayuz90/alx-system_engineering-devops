@@ -17,3 +17,8 @@ Task 3:
 #!/bin/bash
 cat /etc/passwd /etc/hosts
 Script display the content of /etc/passwd and /etc/hosts
+
+Task 4:
+#!/bin/bash
+tail /etc/passwd
+Script display the last 10 lines of /etc/passwd
