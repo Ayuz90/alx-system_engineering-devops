@@ -35,5 +35,8 @@ Script displays the third line of the file iacta
 
 TAsk 7:
 #!/bin/bash
-echo "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+echo Best School$'\n' > \\\*\\'"Best School"\'\\*\$\?\*\*\*\*\*\:\)
 Script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+
+Task 8:
+#!/bin/bash
