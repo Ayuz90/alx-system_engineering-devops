@@ -40,3 +40,5 @@ Script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
 
 Task 8:
 #!/bin/bash
+ls -la > ls_cwd_content
+Script that writes into the file ls_cwd_content the result of the command ls -la
