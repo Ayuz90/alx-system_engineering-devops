@@ -32,3 +32,8 @@ Task 6:
 #!/bin/bash
 head -n 3 iacta | tail -n +3
 Script displays the third line of the file iacta
+
+TAsk 7:
+#!/bin/bash
+
+Script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
