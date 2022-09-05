@@ -30,3 +30,5 @@ Script display the first 10 lines of /etc/passwd
 
 Task 6:
 #!/bin/bash
+head -n 3 iacta | tail -n +3
+Script displays the third line of the file iacta
